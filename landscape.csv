@@ -1,0 +1,10 @@
+grass,grass,ice,ice,ice,ice,grass,grass,ice,ice
+grass,rocks,rocks,ice,ice,ice,grass,grass,ice,ice
+rocks,rocks,rocks,grass,grass,ice,grass,grass,ice,ice
+ice,rocks,grass,grass,grass,grass,grass,grass,grass,grass
+rocks,rocks,grass,ice,grass,ice,rocks,rocks,grass,grass
+rocks,rocks,rocks,ice,rocks,rocks,rocks,rocks,ice,grass
+rocks,rocks,rocks,rocks,rocks,ice,ice,ice,grass,grass
+grass,rocks,rocks,rocks,ice,ice,ice,ice,grass,ice
+grass,grass,grass,grass,ice,grass,grass,ice,ice,ice
+grass,grass,grass,grass,grass,grass,grass,grass,ice,rocks
