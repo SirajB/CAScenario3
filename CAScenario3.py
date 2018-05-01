@@ -1,13 +1,4 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      HAMBREPOS1
-#
-# Created:     16/11/2012
-# Copyright:   (c) HAMBREPOS1 2012
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
+
 # # Having these two hashtags mean that I have finished my comment for that chosen segment# #
 
 from colorama import init
